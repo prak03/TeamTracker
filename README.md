@@ -2,6 +2,9 @@
 
 This is a full stack employee management system. The front end has been implemented with react and tailwind.css . The backend with spring boot, java, Mysql and mavel. 
 
+<img width="1427" alt="output" src="https://github.com/prak03/TeamTracker/assets/88245373/4ee19d03-5da4-41da-9b20-470f8d44bb70">
+
+
 ## How to run
 
 In the project directory, for the front end you can run:
